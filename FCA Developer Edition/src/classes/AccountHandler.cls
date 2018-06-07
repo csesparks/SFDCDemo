@@ -9,7 +9,7 @@ public with sharing class AccountHandler implements ITrigger
   // Member variable to hold the Id's of Accounts 'in use'
   private Set<Id> m_inUseIds = new Set<Id>();
   
-  // Member variable to record Audit records
+  // Member variable to record Audit records//
 
   
   // Constructor
